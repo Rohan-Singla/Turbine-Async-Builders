@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-anchor_vault = "GfWSXGfKHNamGXXnf3SvcZfh5Ra2BZ1Aa7vH1uBYN65e"
+anchor_vault_q4_25 = "AM4Wj31GKyRGS2bdrwu3BoL14udWQNZtKVqzSzKspPds"
 
 [registry]
 url = "https://api.apr.dev"
@@ -16,4 +16,4 @@ cluster = "localnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
-test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 \"tests/**/*.ts\""

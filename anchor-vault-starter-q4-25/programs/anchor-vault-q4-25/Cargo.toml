@@ -1,12 +1,12 @@
 [package]
-name = "anchor_vault"
+name = "anchor-vault-q4-25"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "anchor_vault"
+name = "anchor_vault_q4_25"
 
 [features]
 default = []
@@ -21,7 +21,7 @@ custom-panic = []
 
 
 [dependencies]
-anchor-lang = "0.31.1"
+anchor-lang = "0.32.1"
 
 
 [lints.rust]
