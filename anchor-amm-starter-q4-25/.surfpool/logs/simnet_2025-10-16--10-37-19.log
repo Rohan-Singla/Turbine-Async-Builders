@@ -1,0 +1,20 @@
+[2025-10-16--10-37-19 INFO actix_server::builder] starting 5 workers
+[2025-10-16--10-37-19 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2025-10-16--10-37-19 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2025-10-16--10-37-19 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: Cw9PdDYnwWzD72hWeuZewxhFQJdZcnX8XKnpwjPm7P9t
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [20, 130, 37, 89, 191, 129, 29, 237, 50, 222, 87, 63, 5, 232, 177, 81, 64, 210, 53, 30, 113, 37, 72, 99, 9, 60, 191, 130, 230, 82, 210, 234, 177, 79, 104, 20, 237, 142, 119, 76, 12, 141, 82, 220, 204, 204, 92, 25, 44, 254, 105, 86, 186, 22, 58, 56, 44, 79, 55, 152, 52, 241, 193, 11]
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey ADjX2YXVD7H6TN6PKTCczzJURDQk3LPtjQvbhnec7LC6
+[2025-10-16--10-37-21 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2025-10-16--10-37-23 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2025-10-16--10-37-23 INFO txtx::svm::deploy_program] Program Created - Program 9FVkz5L9LZix4zXYmqJLzKBwRpm9aJ539J26UsZSrLWN has been deployed
+[2025-10-16--10-37-23 INFO txtx::svm::deploy_program] Complete - Ephemeral authority account closed and leftover funds returned to payer
+[2025-10-16--10-37-24 INFO actix_server::accept] accept thread stopped
+[2025-10-16--10-37-24 INFO actix_server::worker] shutting down idle worker
+[2025-10-16--10-37-24 INFO actix_server::worker] shutting down idle worker
+[2025-10-16--10-37-24 INFO actix_server::worker] shutting down idle worker
+[2025-10-16--10-37-24 INFO actix_server::worker] shutting down idle worker
+[2025-10-16--10-37-24 INFO actix_server::worker] shutting down idle worker
